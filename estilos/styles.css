@@ -1,0 +1,148 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+/* GENERAL */
+header {
+    width: 100%;
+    height: 180px;
+    margin-bottom: 20px;
+    background-color: #900919;
+    text-align: center;
+}
+
+h1 {
+    padding-top: 50px;
+    color: burlywood;
+}
+
+h2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    padding: 0 0 10px 0;
+}
+
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: blanchedalmond;
+}
+
+a:hover {
+    color: rgb(80, 255, 182);
+}
+
+/* INDEX STUFF */
+img.redimension {
+    margin: 20px 0 20px 0;
+    width: 600px;
+    height: 400px;
+}
+
+.i-main {
+    margin: 100px 0 100px 0;
+    text-align: center;
+}
+
+/* NAV TOP */
+.top-nav {
+    background-color: #900919;
+    text-align: center;
+}
+
+.top li {
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    display: inline;
+    position: relative;
+    margin-left: 20px;
+}
+
+/* PRODUCTOS */
+.main-div div {
+    list-style-type: none;
+    margin: 50px 20px 20px 160px;
+    display: inline-block;
+    position: relative;
+}
+
+/* CONTACTO */
+.cont p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: justify;
+    width: 550px;
+    margin: 50px 0 0 500px;
+}
+
+.div-name {
+    margin: 20px 0 20px 175px;
+}
+
+.contact-main-box {
+    width: 600px;
+    height: 340px;
+    margin: 100px 0 100px 475px;
+}
+
+.limp-env {
+    margin: 20px 0 50px 250px;
+}
+
+/* NOSOTROS */
+.nos p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: center;
+}
+
+.div-show {
+    margin: 50px 0 50px 500px;
+}
+
+/* SERVICIOS */
+.sect-srv {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+.fset1 {
+    width: 30%;
+    height: 30%;
+    margin: 50px 0 50px 34%;
+    padding: 20px;
+    background-color:lemonchiffon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    border: solid 1px;
+}
+
+/* FOOT */
+footer {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    color: whitesmoke;
+}
+
+.foot-nav1 li {
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 10vh;
+    margin-left: 120px;
+    display: inline;
+    position: relative;
+}
+
+.foot p {
+    text-align: center;
+    padding: 20px 0 0 0;
+}
